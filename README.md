@@ -21,4 +21,4 @@ The name (with extension) of the dummy file.
 ### EXAMPLE
 `mkfile -size 1048576 -fname mydummyfile.txt`
 
-This example creates a dummy file named mydummyfile.txt with a size of 1048576 bytes in the current directory.
+This example creates a dummy file named mydummyfile.txt with a size of 1 MB in the current directory.
