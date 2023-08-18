@@ -15,9 +15,6 @@ This script creates a dummy file with random content of the specified size and n
 ### PARAMETER size
 The size of the dummy file in bytes.
 
-### PARAMETER path
-The path to the directory where the dummy file will be created.
-
 ### PARAMETER fname
 The name (with extension) of the dummy file.
 
